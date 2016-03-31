@@ -2,7 +2,7 @@
 
 > 原创：[https://github.com/github/gitignore/blob/master/Objective-C.gitignore](https://github.com/github/gitignore/blob/master/Objective-C.gitignore)
 
-```python
+```tex
 # Xcode
 #
 # gitignore contributors: remember to update Global/Xcode.gitignore, Objective-C.gitignore & Swift.gitignore
@@ -55,4 +55,3 @@ Carthage/Build
 fastlane/report.xml
 fastlane/screenshots
 ```
-
