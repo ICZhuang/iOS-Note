@@ -1,4 +1,4 @@
-### UIImagePickerControl 视频/照片
+### UIImagePickerController 视频/照片
 
 > 微信将视频与照片合在一起
 
@@ -11,4 +11,3 @@ picker.mediaTypes = [UIImagePickerController
 picker.videoQuality = UIImagePickerControllerQualityTypeLow;
 [self.window.rootViewController presentViewController:picker animated:YES completion:nil];
 ```
-
