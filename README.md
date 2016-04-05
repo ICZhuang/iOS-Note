@@ -5,6 +5,14 @@
 
 # Blogs Recommend
 
-`KVC` &`KVO` : [http://yulingtianxia.com/blog/2014/05/12/objective-czhong-de-kvche-kvo/](http://yulingtianxia.com/blog/2014/05/12/objective-czhong-de-kvche-kvo/) 
+`KVC` &`KVO` 
 
-`Runtime`: http://yulingtianxia.com/blog/2014/11/05/objective-c-runtime/ 
+ [http://yulingtianxia.com/blog/2014/05/12/objective-czhong-de-kvche-kvo/](http://yulingtianxia.com/blog/2014/05/12/objective-czhong-de-kvche-kvo/) 
+
+[http://blog.csdn.net/wzzvictory/article/details/9674431](http://blog.csdn.net/wzzvictory/article/details/9674431)
+
+[http://objccn.io/issue-7-3/](http://objccn.io/issue-7-3/)			
+
+`Runtime`
+
+ http://yulingtianxia.com/blog/2014/11/05/objective-c-runtime/ 
