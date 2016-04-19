@@ -4,6 +4,8 @@
 
 ###### 3、UIImagePickerController 视频/照片
 
+######4、CocoaPods [!] ...target overrides the `OTHER_LDFLAGS` ...导致工程编译失败
+
 
 # Blogs Recommend
 
