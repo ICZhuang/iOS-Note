@@ -6,6 +6,8 @@
 
 ######4、CocoaPods [!] ...target overrides the `OTHER_LDFLAGS` ...导致工程编译失败
 
+######  5、获取本地音频文件的Duration
+
 
 # Blog Recommend
 
